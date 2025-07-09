@@ -1,0 +1,20 @@
+AI社群配對工具 - TBW 2025提案
+
+# AI社群配對工具 - TBW 2025提案
+
+## 問題
+TBW參與者難以快速找到志同道合的networking對象，影響交流效率。
+
+## 解決方案
+- 用AI分析參與者的X或LinkedIn資料，生成興趣標籤。
+- 透過區塊鏈（如Chainlink CCIP）記錄匹配結果，確保隱私與透明。
+- 應用於TBW側邊活動（如She Scale Summit），提升社群互動。
+
+## 商業價值
+- 吸引贊助商（如BTSE）推廣生態，增加用戶黏性。
+- 為女性參與者（如Ta Zhi DAO）打造友善的networking環境。
+
+## 流程圖
+![AI配對流程](community-tool-flowchart.png)
+
+**版權聲明**：本提案為[你的名字]原創，僅限學習交流，禁止未經授權複製或商業使用。
